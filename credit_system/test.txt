@@ -1,0 +1,8 @@
+// High credit score customer
+{"first_name": "Alice", "last_name": "Rich", "age": 35, "monthly_income": 100000, "phone_number": "1111111111"}
+
+// Medium credit score  
+{"first_name": "Bob", "last_name": "Average", "age": 28, "monthly_income": 40000, "phone_number": "2222222222"}
+
+// Low credit score
+{"first_name": "Charlie", "last_name": "Risky", "age": 22, "monthly_income": 20000, "phone_number": "3333333333"}
